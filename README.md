@@ -1,1 +1,3 @@
 # html_portfolio
+This project is movie ranking based project build by only using HTML. It is simple but useful if you try to learn HTML from scrach and code a website by using HTML. I have used almost all the tags and elements of HTML for coding practice. All the images are downloaded  from the internet and the project also includes link to IMBD webiste if you want to visit the link and want to know about that perticular website. I have also put the link for google map so that anyone can practice how to link your location using google map.
+This is my first HTML based project to code and learn HTML from basic and will surely help other lerarners around the globe. If you have anything to ask about the project feel fry to ask me at email: scientistamzad786@gmil.com
